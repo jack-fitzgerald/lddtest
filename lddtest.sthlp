@@ -14,7 +14,7 @@ Logarithmic density discontinuity equivalence testing for regression discontinui
 {title:Description}
 
 lddtest performs equivalence testing on logarithmic density discontinuities of running variables at the cutoff
-in regression discontinuity designs, as described in Fitzgerald (2024). lddtest is functionally a wrapper for Mcrary's (2008)
+in regression discontinuity designs, as described in Fitzgerald (2024). lddtest is functionally a wrapper for McCrary's (2008)
 classical DCdensity command. The DCdensity code upon which this command is based can be found at
 https://eml.berkeley.edu/~jmccrary/DCdensity/ (accessed 30 June 2024).
 
