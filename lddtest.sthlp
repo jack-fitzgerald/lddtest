@@ -5,9 +5,7 @@
 {title:lddtest}
 
 {p 4 4 2}
-{bf:tsti} Logarithmic density discontinuity equivalence testing for regression discontinuity designs in Stata
-
-{title:lddtest}
+Logarithmic density discontinuity equivalence testing for regression discontinuity designs in Stata
 
 {title:Syntax}
 
