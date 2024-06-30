@@ -18,7 +18,7 @@
 lddtest performs equivalence testing on logarithmic density discontinuities of running variables at the cutoff
 in regression discontinuity designs, as described in Fitzgerald (2024). lddtest is functionally a wrapper for Mcrary's (2008)
 classical DCdensity command. The DCdensity code upon which this command is based can be found at
-https://eml.berkeley.edu/~jmccrary/DCdensity/ (accessed 30 June 2024). {p_end}
+https://eml.berkeley.edu/~jmccrary/DCdensity/ (accessed 30 June 2024).
 
 {p 4 4 2}{bf:Arguments}
 
@@ -53,7 +53,8 @@ Vrije Universiteit Amsterdam     {break}
 j.f.fitzgerald@vu.nl    {break}
 {browse "https://jack-fitzgerald.github.io":https://jack-fitzgerald.github.io} 
 
-{References}
+{title:References}
 Fitzgerald, Jack (2024). "Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing in Economics". 
 Working paper. https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf.
+
 Manipulation of the running ariable in the regression discontinuity design: A density test. Journal of Econometrics 142(2), 698-714.
