@@ -1,0 +1,9 @@
+v 1.0.0
+d Jack Fitzgerald
+d Vrije Universiteit Amsterdam
+d j.f.fitzgerald@vu.nl
+d https://github.com/jack-fitzgerald/lddtest
+
+d 'lddtest': Logarithmic density discontinuity equivalence tests for regression discontinuity designs in Stata
+
+p lddtest
