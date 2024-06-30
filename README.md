@@ -1,4 +1,4 @@
-# lddtest: Logarithmic density discontinuity equivalence tests for regression discontinuity designs in Stata
+# lddtest: Logarithmic density discontinuity equivalence testing for regression discontinuity designs in Stata
 
 You can install this package directly into Stata with the following code:
 ```
